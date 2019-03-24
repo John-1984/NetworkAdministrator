@@ -1,0 +1,9 @@
+D:\Softwares\DotNMap\sourceCode\Simple.DotNMap\DotNMap\bin\Debug\Simple.DotNMap.dll
+D:\Softwares\DotNMap\sourceCode\Simple.DotNMap\DotNMap\bin\Debug\Simple.DotNMap.pdb
+D:\Softwares\DotNMap\sourceCode\Simple.DotNMap\DotNMap\obj\Debug\DotNMap.csprojResolveAssemblyReference.cache
+D:\Softwares\DotNMap\sourceCode\Simple.DotNMap\DotNMap\obj\Debug\Simple.DotNMap.dll
+D:\Softwares\DotNMap\sourceCode\Simple.DotNMap\DotNMap\obj\Debug\Simple.DotNMap.pdb
+D:\Applications\RemoteConnection\DotNMap\bin\Debug\DotNMap.dll
+D:\Applications\RemoteConnection\DotNMap\bin\Debug\DotNMap.pdb
+D:\Applications\RemoteConnection\DotNMap\obj\Debug\DotNMap.dll
+D:\Applications\RemoteConnection\DotNMap\obj\Debug\DotNMap.pdb
